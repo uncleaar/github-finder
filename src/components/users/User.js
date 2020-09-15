@@ -55,6 +55,7 @@ return(
                 <div className='all-center'>
                     <img
                         src={avatar_url}
+                        alt=''
                         className='round-img'
                         style={{width: '150px'}}
                     />
