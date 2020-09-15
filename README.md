@@ -1,4 +1,4 @@
-<strong><b>Github Finder</b></strong>
+<b>Github Finder</b>
 
 ### `npm install`
 
