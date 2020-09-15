@@ -5,7 +5,7 @@ const Search = ({searchUsers, showClear, clearUsers, setAlert}) => {
     const [text, setText] = useState()
 
 
-   const onSumbit = (e) => {
+   const onSubmit = (e) => {
         e.preventDefault()
         if(text === '') {
             setAlert('Please enter something', 'light')
@@ -18,7 +18,7 @@ const Search = ({searchUsers, showClear, clearUsers, setAlert}) => {
     const onChange = (e) => setText(e.target.value)
         return (
             <div>
-                <form onSubmit={onSumbit} className="form">
+                <form onSubmit={onSubmit} className="form">
                     <input
                         type="text"
                         name="text"
