@@ -1,6 +1,6 @@
 <b>Github Finder</b>
 
-Check https://vercel.com/harld-x/github-finder/lsmseu3yt
+Check https://github-finder-git-master.harld-x.vercel.app/
 
 ### `npm install`
 
