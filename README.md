@@ -1,5 +1,7 @@
 <b>Github Finder</b>
 
+Check https://vercel.com/harld-x/github-finder/lsmseu3yt
+
 ### `npm install`
 
 ### `npm start`
